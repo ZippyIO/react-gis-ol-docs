@@ -11,10 +11,7 @@ const config: DocsThemeConfig = {
   project: {
     link: "https://github.com/ZippyIO/react-gis-ol",
   },
-  chat: {
-    link: "https://discord.com",
-  },
-  docsRepositoryBase: "https://github.com/shuding/nextra-docs-template",
+  docsRepositoryBase: "https://github.com/ZippyIO/react-gis-ol",
   footer: {
     text: "React GIS-OL Documentation",
   },
