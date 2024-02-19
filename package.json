@@ -1,7 +1,7 @@
 {
-  "name": "nextra-docs-template",
+  "name": "react-gis-ol-docs",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "React GIS-OL Documentation",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shuding/nextra-docs-template.git"
+    "url": "git+https://github.com/ZippyIO/react-gis-ol-docs.git"
   },
-  "author": "Shu Ding <g@shud.in>",
+  "author": "ZippyIO",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
+    "url": "https://github.com/ZippyIO/react-gis-ol-docs/issues"
   },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "homepage": "https://github.com/ZippyIO/react-gis-ol-docs#readme",
   "dependencies": {
     "next": "^14.1.0",
     "nextra": "2.13.3",
